@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ruff
+.ruff_cache/
+
+# VS Code
+.vscode/
+
+# Reports
+reports/*.pdf
+reports/*.docx
+
+# macOS / Windows
+.DS_Store
+Thumbs.db

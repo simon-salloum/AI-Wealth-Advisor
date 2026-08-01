@@ -1,0 +1,62 @@
+[
+    {
+        "name": "John Doe",
+        "age": 45,
+        "annual_income": 950000,
+        "savings": 1800000,
+        "monthly_expenses": 35000,
+        "mortgage": 2500000,
+        "investment_experience": "Intermediate",
+        "risk_tolerance": "Medium",
+        "investment_goal": "Retirement",
+        "time_horizon": 20
+    },
+    {
+        "name": "Test",
+        "age": 30,
+        "annual_income": 400000.0,
+        "savings": 0.0,
+        "monthly_expenses": 15000.0,
+        "mortgage": 7000.0,
+        "investment_experience": "Beginner",
+        "risk_tolerance": "Low",
+        "investment_goal": "Retirement",
+        "time_horizon": 30
+    },
+    {
+        "name": "John Doe",
+        "age": 45,
+        "annual_income": 950000.0,
+        "savings": 1800000.0,
+        "monthly_expenses": 35000.0,
+        "mortgage": 2500000.0,
+        "investment_experience": "Intermediate",
+        "risk_tolerance": "Medium",
+        "investment_goal": "Retirement",
+        "time_horizon": 20
+    },
+    {
+        "name": "Bad Customer",
+        "age": 50,
+        "annual_income": 100000.0,
+        "savings": 0.0,
+        "monthly_expenses": 5000.0,
+        "mortgage": 0.0,
+        "investment_experience": "Beginner",
+        "risk_tolerance": "Low",
+        "investment_goal": "Wealth Growth",
+        "time_horizon": 10
+    },
+    {
+        "name": "SSSS",
+        "age": 50,
+        "annual_income": 10000.0,
+        "savings": 0.0,
+        "monthly_expenses": 7000.0,
+        "mortgage": 0.0,
+        "investment_experience": "Beginner",
+        "risk_tolerance": "Low",
+        "investment_goal": "Retirement",
+        "time_horizon": 10
+    }
+]
